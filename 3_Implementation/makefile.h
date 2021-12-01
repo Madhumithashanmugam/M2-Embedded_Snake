@@ -4,8 +4,8 @@ DU = avrdude
 TARGET = main
 UART = uart/uart
 TW = i2c/i2cmaster
-MMA = mma8452/mma8452
-SNAKE = snek/snek
+inc= test/test
+src = snake/snake
 
 
 MU = atmega328p
